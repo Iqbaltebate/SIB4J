@@ -1,9 +1,9 @@
-export default function lear(){
+export default function learn(){
     return (
     <div>
     
         <div>
-             <img src="wowi.jpg" alt="" />    
+             <img src = {"/palette.svg"} alt="icon Palette" />    
                <p> logo desain</p>
         </div>
 
